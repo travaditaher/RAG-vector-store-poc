@@ -1,0 +1,9 @@
+boto3
+faiss-cpu
+pypdf
+sentence-transformers
+PyPDF2
+PyCryptodome
+qdrant-client
+nltk pdfminer.six
+scikit-learn
